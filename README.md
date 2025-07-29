@@ -1,5 +1,8 @@
 # 📇 GitHub Card Generator
 A stylish GitHub profile card generator with PNG download and theme toggles.
+
+🚀 **Live Demo**: [Click here to view](https://varnika060306.github.io/github-card-generator/)
+
 <p align="center">
   <img src="./demo.gif" alt="Demo of GitHub Card Generator" />
 </p>
