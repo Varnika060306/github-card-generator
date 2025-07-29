@@ -1,4 +1,11 @@
 # 📇 GitHub Card Generator
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Varnika060306/github-card-generator?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Varnika060306/github-card-generator?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Varnika060306/github-card-generator?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Varnika060306/github-card-generator?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/Varnika060306/github-card-generator?style=for-the-badge)
+
 A stylish GitHub profile card generator with PNG download and theme toggles.
 
 🚀 **Live Demo**: [Click here to view](https://varnika060306.github.io/github-card-generator/)
